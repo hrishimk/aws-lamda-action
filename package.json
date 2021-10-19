@@ -1,0 +1,23 @@
+{
+    "name": "aws-lamda-action",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "source .env && node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hrishimk/aws-lamda-action.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hrishimk/aws-lamda-action/issues"
+    },
+    "homepage": "https://github.com/hrishimk/aws-lamda-action#readme",
+    "dependencies": {
+        "webflow-api": "^0.5.4"
+    }
+}
